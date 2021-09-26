@@ -1,0 +1,38 @@
+/* president-card */
+.president-card{
+    background-color: lightgray;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.president-card:hover{
+    transform: translateY(+10px);
+    
+}
+/* president-card-img */
+.president-card-img{
+    width: 50%;
+    height: 130px;
+    border-radius: 100%;
+    margin-top: 5px;
+}
+/* card-btn */
+.card-btn{
+        background-color: goldenrod;
+        margin-bottom: 10px;
+        border: 1px solid lightgray;
+        border-radius: 10px;
+        width: 150px;
+        height: 30px;
+        font-size: 15px;
+        font-weight: 700;
+        cursor: pointer;
+}
+/* icon */
+.icon i{
+    font-size: 30px;
+    padding: 5px;
+    margin-bottom: 10px;
+    
+}

@@ -1,0 +1,11 @@
+/* header */
+.header{
+    background-color:#120f3b;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+/* total-budget-span-color */
+.total-budget-span-color{
+    color: crimson;
+}

@@ -1,0 +1,16 @@
+/* buy-now-btn */
+.buy-now-btn{
+    background-color: goldenrod;
+    margin-bottom: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
+/* span-color */
+.span-color{
+    color: rgb(17, 61, 165);
+}
